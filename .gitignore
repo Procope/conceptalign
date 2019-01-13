@@ -5,6 +5,8 @@ data/controversial/*.json
 data/liwc/*.txt
 data/liwc/*.dict
 
+src/.ipynb_checkpoints/
+
 *.DS_Store
 
 src/counts-category/*
