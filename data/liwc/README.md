@@ -1,0 +1,1 @@
+This folder contains topic-specific `pickle` serialisations of the WikiTalk corpus.

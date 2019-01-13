@@ -1,0 +1,13 @@
+data/controversial/*.pickle
+data/controversial/*.tsv
+data/controversial/*.json
+
+data/liwc/*.txt
+data/liwc/*.dict
+
+*.DS_Store
+
+src/counts-category/*
+src/counts-cnw
+src/with_counts/*
+src/tsv/
